@@ -9,7 +9,6 @@ digraph G {
   avenue [ label="avenue(1)" ];
   trusting [ label="trusting(1)" ];
   power [ label="power(1)" ];
-  hedrick [ label="hedrick(1)" ];
   bumper [ label="bumper(1)" ];
   number [ label="number(1)" ];
   increase [ label="increase(1)" ];
@@ -45,12 +44,8 @@ digraph G {
   refuge [ label="refuge(2)" ];
   contrary [ label="contrary(1)" ];
   importance [ label="importance(1)" ];
-  canada [ label="canada(2)" ];
-  aramis [ label="aramis(1)" ];
-  christian [ label="christian(1)" ];
-  office [ label="office(1)" ];
   rose [ label="rose(1)" ];
-  cantaloupe [ label="cantaloupe(1)" ];
+  canada [ label="canada(1)" ];
   judg [ label="judg(1)" ];
   anger [ label="anger(2)" ];
   perish [ label="perish(2)" ];
@@ -120,7 +115,7 @@ digraph G {
   journey [ label="journey(1)" ];
   holds [ label="holds(2)" ];
   future [ label="future(1)" ];
-  research [ label="research(2)" ];
+  research [ label="research(1)" ];
   offers [ label="offers(1)" ];
   respect [ label="respect(2)" ];
   sees [ label="sees(1)" ];
@@ -151,10 +146,9 @@ digraph G {
   send [ label="send(1)" ];
   likelihood [ label="likelihood(1)" ];
   everyone [ label="everyone(1)" ];
-  path [ label="path(1)" ];
   mail [ label="mail(1)" ];
   mielke [ label="mielke(2)" ];
-  religion [ label="religion(1)" ];
+  office [ label="office(1)" ];
   dave [ label="dave(1)" ];
   press [ label="press(1)" ];
   hang [ label="hang(1)" ];
@@ -163,7 +157,6 @@ digraph G {
   tendency [ label="tendency(1)" ];
   postpone [ label="postpone(1)" ];
   psalm [ label="psalm(3)" ];
-  bell [ label="bell(1)" ];
   evidence [ label="evidence(1)" ];
   cried [ label="cried(2)" ];
   mercy [ label="mercy(3)" ];
@@ -175,9 +168,6 @@ digraph G {
   idea [ label="idea(1)" ];
   layout [ label="layout(1)" ];
   hunger [ label="hunger(1)" ];
-  athos [ label="athos(3)" ];
-  davem [ label="davem(2)" ];
-  bnr [ label="bnr(2)" ];
   california [ label="california(1)" ];
   trump [ label="trump(1)" ];
   spirit [ label="spirit(1)" ];
@@ -211,7 +201,6 @@ digraph G {
   child [ label="child(1)" ];
   part [ label="part(1)" ];
   provide [ label="provide(1)" ];
-  reston [ label="reston(1)" ];
   night [ label="night(2)" ];
   plans [ label="plans(1)" ];
   tells [ label="tells(1)" ];
@@ -288,16 +277,14 @@ digraph G {
   mean [ label="mean(2)" ];
   business [ label="business(1)" ];
   peter [ label="peter(1)" ];
+  davem [ label="davem(2)" ];
+  bnr [ label="bnr(2)" ];
   acts [ label="acts(1)" ];
   thou [ label="thou(2)" ];
   shun [ label="shun(1)" ];
   paraphrase [ label="paraphrase(1)" ];
-  sender [ label="sender(1)" ];
   touch [ label="touch(1)" ];
-  gtefsd [ label="gtefsd(1)" ];
   want [ label="want(1)" ];
-  date [ label="date(1)" ];
-  com [ label="com(1)" ];
   forgive [ label="forgive(1)" ];
   created [ label="created(1)" ];
   trust [ label="trust(2)" ];
@@ -318,7 +305,6 @@ digraph G {
   lift [ label="lift(1)" ];
   secret [ label="secret(1)" ];
   thought [ label="thought(1)" ];
-  crabapple [ label="crabapple(1)" ];
   lord [ label="lord(13)" ];
   revealeth [ label="revealeth(1)" ];
   remain [ label="remain(1)" ];
@@ -327,8 +313,6 @@ digraph G {
   air [ label="air(1)" ];
   heaven [ label="heaven(5)" ];
   rise [ label="rise(1)" ];
-  approved [ label="approved(1)" ];
-  eng [ label="eng(1)" ];
   god [ label="god(61)" ];
   standing [ label="standing(1)" ];
   none [ label="none(5)" ];
@@ -344,9 +328,7 @@ digraph G {
   humbled [ label="humbled(1)" ];
   lettering [ label="lettering(1)" ];
   family [ label="family(2)" ];
-  gmt [ label="gmt(1)" ];
   christ [ label="christ(21)" ];
-  apr [ label="apr(1)" ];
   amos [ label="amos(1)" ];
   ontario [ label="ontario(1)" ];
   jonah [ label="jonah(3)" ];
@@ -354,12 +336,9 @@ digraph G {
   amer [ label="amer(1)" ];
   bit [ label="bit(1)" ];
   nineveh [ label="nineveh(3)" ];
-  europa [ label="europa(1)" ];
   paragraph [ label="paragraph(1)" ];
   unrighteousness [ label="unrighteousness(1)" ];
-  wupost [ label="wupost(1)" ];
   work [ label="work(1)" ];
-  organization [ label="organization(1)" ];
   grenon [ label="grenon(1)" ];
   isaiah [ label="isaiah(2)" ];
   doesn [ label="doesn(1)" ];
@@ -368,8 +347,6 @@ digraph G {
   jesus [ label="jesus(10)" ];
   heap [ label="heap(1)" ];
   camping [ label="camping(3)" ];
-  srv [ label="srv(2)" ];
-  message [ label="message(1)" ];
   jesus [ label="jesus(1)" ];
   vantage [ label="vantage(1)" ];
   matthew [ label="matthew(4)" ];
@@ -400,9 +377,6 @@ digraph G {
   person -> teaches [ label="1" ];
   person -> sinner [ label="1" ];
   person -> world [ label="1" ];
-  canada -> aramis [ label="1" ];
-  canada -> christian [ label="1" ];
-  canada -> office [ label="1" ];
   anger -> perish [ label="1" ];
   anger -> burn [ label="1" ];
   anger -> set [ label="1" ];
@@ -509,11 +483,9 @@ digraph G {
   sin -> seat [ label="1" ];
   sin -> hath [ label="3" ];
   sin -> hath [ label="3" ];
-  mielke -> christian [ label="1" ];
-  mielke -> religion [ label="1" ];
+  mielke -> love [ label="1" ];
   mielke -> office [ label="1" ];
-  dave -> christian [ label="1" ];
-  dave -> religion [ label="1" ];
+  dave -> love [ label="1" ];
   dave -> office [ label="1" ];
   return -> death [ label="1" ];
   return -> applies [ label="1" ];
@@ -533,9 +505,6 @@ digraph G {
   give -> earth [ label="1" ];
   give -> heart [ label="1" ];
   give -> idea [ label="1" ];
-  athos -> christian [ label="1" ];
-  athos -> davem [ label="1" ];
-  athos -> bnr [ label="1" ];
   repent -> escape [ label="1" ];
   repent -> come [ label="1" ];
   repent -> presence [ label="1" ];
@@ -751,8 +720,6 @@ digraph G {
   one -> return [ label="1" ];
   one -> postpone [ label="1" ];
   one -> life [ label="2" ];
-  ottawa -> christian [ label="1" ];
-  ottawa -> office [ label="1" ];
   night -> earth [ label="1" ];
   night -> melt [ label="1" ];
   night -> works [ label="1" ];
@@ -773,8 +740,6 @@ digraph G {
   peace -> woman [ label="1" ];
   peace -> destruction [ label="1" ];
   peace -> safety [ label="1" ];
-  christian -> davem [ label="1" ];
-  christian -> bnr [ label="1" ];
   bible -> time [ label="2" ];
   bible -> side [ label="1" ];
   bible -> believeth [ label="1" ];
@@ -922,8 +887,6 @@ digraph G {
   copy -> list [ label="1" ];
   copy -> call [ label="1" ];
   demands -> payment [ label="1" ];
-  research -> respect [ label="1" ];
-  research -> ignore [ label="1" ];
   teaches -> world [ label="1" ];
   feel -> respect [ label="1" ];
   feel -> davem [ label="1" ];

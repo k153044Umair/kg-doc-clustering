@@ -5,6 +5,7 @@ import java.awt.Color;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -16,6 +17,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.WindowConstants;
 
+import org.apache.commons.io.FilenameUtils;
 import org.umair.models.GraphStatistics;
 
 import com.apporiented.algorithm.clustering.Cluster;
@@ -174,10 +176,10 @@ public class ClusterTest {
 	
 	public static Map<String, ArrayList<String>> getGroundTruthClusters() {
 		Map<String, ArrayList<String>> groundTruthClusters = new TreeMap<String, ArrayList<String>>();
-		File groundTruthFolder = new File("groundtruth");
+		File groundTruthFolder = new File(Constants.DATA_FOLDER+ "GT");
 		File[] listOfCluster = groundTruthFolder.listFiles();
 		for (int i = 0; i < listOfCluster.length; i++) {
-			groundTruthClusters.put(listOfCluster[i].getName(), getFileNamesFromFolder(groundTruthFolder.getName() + "/" + listOfCluster[i].getName()));
+			groundTruthClusters.put(listOfCluster[i].getName(), getFileNamesFromFolder(groundTruthFolder.getParent()+"/"+groundTruthFolder.getName() + "/" + listOfCluster[i].getName()));
 		}
 		return groundTruthClusters;
 	}
@@ -192,7 +194,7 @@ public class ClusterTest {
 	      if (listOfFiles[i].isFile()) {
 	        String name = listOfFiles[i].getName();
 	        if(!name.equalsIgnoreCase("stopword")) {
-	        	files.add(name);
+	        	files.add(FilenameUtils.removeExtension(name));
 	        }
 	      }
 	    }
@@ -251,29 +253,40 @@ public class ClusterTest {
 		return names;
 	}
 	
-	public static void processConfusionMatrixAndPrintResults(Map<String, ArrayList<String>> obtainedClusters) {
+	public static void processConfusionMatrixAndPrintResults(Map<String, ArrayList<String>> obtainedClusters, PrintWriter out) {
 		Map<String, ArrayList<String>> groundTruthClusters = getGroundTruthClusters();
 		//System.out.println(groundTruthClusters.size());
-		
+		File groundTruthFolder = new File(Constants.DATA_FOLDER+ "GT");
+		File[] listOfCluster = groundTruthFolder.listFiles();
 		ConfusionMatrix confusionMatrix = new ConfusionMatrix();
-		for(int k = 1; k < 6; k++) {
-			String obtainedClusterKey = "C"+k;
-			for(int j=1; j < 6; j++) {
-				String groundTruthKey="C"+j;
+		for(int k = 0; k < obtainedClusters.size(); k++) {
+			String obtainedClusterKey = "C"+(k+1);
+			for(int j=0; j < listOfCluster.length; j++) {
+				String groundTruthKey=listOfCluster[j].getName();
+				String groundTruthKeyForCM="C"+(j+1);
+				System.out.println("Considering " + groundTruthKey + " as " + groundTruthKeyForCM);
 				List<String> intersection = intersection(obtainedClusters.get(obtainedClusterKey), groundTruthClusters.get(groundTruthKey));
 				//System.out.println(intersection.size());
-				confusionMatrix.increaseValue(obtainedClusterKey, groundTruthKey, intersection.size());
+				confusionMatrix.increaseValue(obtainedClusterKey, groundTruthKeyForCM, intersection.size());
 			}
 		}
 		
 		 System.out.println(confusionMatrix); 
+		 out.println(confusionMatrix); 
 		 System.out.println(confusionMatrix.printLabelPrecRecFm());
+		 out.println(confusionMatrix.printLabelPrecRecFm());
 		 System.out.println(confusionMatrix.getPrecisionForLabels());
+		 out.println(confusionMatrix.getPrecisionForLabels());
 		 System.out.println(confusionMatrix.getRecallForLabels());
+		 out.println(confusionMatrix.getRecallForLabels());
 		 System.out.println(confusionMatrix.printNiceResults());
+		 out.println(confusionMatrix.printNiceResults());
 		 System.out.println("Accuracy: " + confusionMatrix.getAccuracy());
+		 out.println("Accuracy: " + confusionMatrix.getAccuracy());
 		 System.out.println("Precision: " + confusionMatrix.getAvgPrecision());
-		 System.out.println("Recall" + confusionMatrix.getAvgRecall());
+		 out.println("Precision: " + confusionMatrix.getAvgPrecision());
+		 System.out.println("Recall: " + confusionMatrix.getAvgRecall());
+		 out.println("Recall: " + confusionMatrix.getAvgRecall());
 	}
 
 }

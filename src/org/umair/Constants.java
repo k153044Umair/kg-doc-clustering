@@ -3,7 +3,7 @@ package org.umair;
 public interface Constants {
 	
 	
-	public static final String DATA_FOLDER = "data";
+	public static final String DATA_FOLDER = "short-data/Reuters";
 	
 	public static final String STOP_WORDS_FILE_NAME = "stopwords.txt";
 	

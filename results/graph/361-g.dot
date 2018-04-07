@@ -1,0 +1,31 @@
+digraph G {
+  outpu [ label="outpu(1)" ];
+  jan [ label="jan(1)" ];
+  end [ label="end(1)" ];
+  title [ label="title(1)" ];
+  output [ label="output(3)" ];
+  stopped [ label="stopped(1)" ];
+  industry [ label="industry(2)" ];
+  reute [ label="reute(1)" ];
+  month [ label="month(1)" ];
+  fell [ label="fell(2)" ];
+  year [ label="year(3)" ];
+  feb [ label="feb(2)" ];
+  trade [ label="trade(1)" ];
+  falls [ label="falls(1)" ];
+  mar [ label="mar(1)" ];
+  pkt [ label="pkt(1)" ];
+  march [ label="march(1)" ];
+  ministry [ label="ministry(1)" ];
+  january [ label="january(1)" ];
+  bc [ label="bc(1)" ];
+  text [ label="text(1)" ];
+  dateline [ label="dateline(1)" ];
+  date [ label="date(1)" ];
+  aluminium [ label="aluminium(4)" ];
+  reuter [ label="reuter(1)" ];
+  output -> stopped [ label="1" ];
+  industry -> reute [ label="1" ];
+  fell -> stopped [ label="1" ];
+  year -> stopped [ label="2" ];
+}

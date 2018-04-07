@@ -48,7 +48,7 @@ public class GraphStatisticsService {
 		FileOutputStream fos;
 		try {
 			System.out.println("Creating Text file for: " + fileName);
-			new File("results/txt/").mkdirs();
+			new File("results/cmtxt/").mkdirs();
 			out = new PrintWriter(new FileWriter("results/txt/" + fileName + ".txt"));
 			String excelFileName = "results/Excel/" + fileName + ".csv";
 			new File("results/Excel/").mkdirs();

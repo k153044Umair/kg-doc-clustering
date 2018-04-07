@@ -380,7 +380,7 @@ public class DocumentService {
 		//LeacockChodorow double[] MIN_SIMILARITY_VALUE = {1.4978};
 		//Lesk double[] MIN_SIMILARITY_VALUE = {92}; very slow
 		//Lin double[] MIN_SIMILARITY_VALUE = {0.5};
-		double[] MIN_SIMILARITY_VALUE = {1};
+		double[] MIN_SIMILARITY_VALUE = {1.5};
 		WS4JConfiguration.getInstance().setMFS(false);
 		//WS4JConfiguration.getInstance().setStem(true);
 		WS4JConfiguration.getInstance().setCache(true);

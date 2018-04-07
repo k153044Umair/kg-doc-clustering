@@ -2,6 +2,14 @@ package org.umair;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+import java.io.PrintWriter;
+import java.text.DecimalFormat;
+import java.text.NumberFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -51,6 +59,7 @@ public class GraphStatisticCalculator implements Runnable {
 	public void run() {
 		//System.out.println("Calculating similarity in: " + Thread.currentThread().getName());
 		
+		long startTime = System.currentTimeMillis();
 		int MAX_SIZE = graphs.size();
 		double[][] similarityMatrix = new double[MAX_SIZE][MAX_SIZE];
 		int i=0;
@@ -65,7 +74,7 @@ public class GraphStatisticCalculator implements Runnable {
 					similarityMatrix[i][j] = 0;
 					continue;
 				}
-				//System.out.println("Calculating similarity for: " + names.get(i) + " - " + names.get(j));
+				System.out.println("Calculating similarity for: " + names.get(i) + " - " + names.get(j));
 				int commonNodesCount = 0;
 				int commonEdgesCount = 0;
 				//Traverse vertex set of graph that has less number of vertices
@@ -134,16 +143,19 @@ public class GraphStatisticCalculator implements Runnable {
 		}
 		
 		try {
-			draw(namesArr, similarityMatrix);
+			draw(namesArr, similarityMatrix, rc.getClass().getSimpleName() + "-" + minSimilarity);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 		GraphStatisticsService.exportCalculatedGraphValues(rc.getClass().getSimpleName() + "-" + minSimilarity, new GraphStatistics(names, similarityMatrix));
 		
+		long endTime = System.currentTimeMillis();
+		NumberFormat formatter = new DecimalFormat("#0.00000");
+		System.out.print("Execution time is " + formatter.format((endTime - startTime) / 1000d) + " seconds");
 	}
 	
 	
-	private static void draw(String[] names, double[][] distances) throws Exception {
+	private static void draw(String[] names, double[][] distances, String fileName) throws Exception {
         JFrame frame = new JFrame();
         frame.setSize(1024, 768);
         frame.setLocation(400, 300);
@@ -174,33 +186,48 @@ public class GraphStatisticCalculator implements Runnable {
 			System.out.println(results[i]);
 		}*/
         
-        final Array2DRowRealMatrix mat = new Array2DRowRealMatrix(distances);
-        for(Linkage linkage: HierarchicalAgglomerative.Linkage.values()) {
-        	System.out.println("Linkage: " + linkage.name());
-        	HierarchicalAgglomerative a = new HierarchicalAgglomerativeParameters(5).setLinkage(linkage).fitNewModel(mat);
-            final int[] results = a.getLabels();
-            System.out.println(Arrays.toString(results));
-            System.out.println("Document Wise results");
-            Map<String, ArrayList<String>> resultsMap = new HashMap<String, ArrayList<String>>();
-            for (int i = 0; i < results.length; i++) {
-				//System.out.print(names[i]+":"+results[i]+",");
-				int clusterNumber = results[i]+1;
-				String documentId = names[i];
-				String clusterId = "C"+clusterNumber;
-				ArrayList<String> list = resultsMap.get(clusterId);
-				if(list == null) {
-					list = new ArrayList<String>();
+        PrintWriter out;
+		try {
+			System.out.println("Creating Text file for: " + fileName);
+			new File("results/txt/").mkdirs();
+			out = new PrintWriter(new FileWriter("results/txt/" + fileName + ".txt"));
+			out.println("-----------------------------------");
+			final Array2DRowRealMatrix mat = new Array2DRowRealMatrix(distances);
+	        for(Linkage linkage: HierarchicalAgglomerative.Linkage.values()) {
+	        	System.out.println("Linkage: " + linkage.name());
+	        	out.println("Linkage: " + linkage.name());
+	        	HierarchicalAgglomerative a = new HierarchicalAgglomerativeParameters(ClusterTest.getGroundTruthClusters().size()).setLinkage(linkage).fitNewModel(mat);
+	            final int[] results = a.getLabels();
+	            System.out.println(Arrays.toString(results));
+	            out.println(Arrays.toString(results));
+	            //System.out.println("Document Wise results");
+	            Map<String, ArrayList<String>> resultsMap = new HashMap<String, ArrayList<String>>();
+	            for (int i = 0; i < results.length; i++) {
+					//System.out.print(names[i]+":"+results[i]+",");
+					int clusterNumber = results[i]+1;
+					String documentId = names[i];
+					String clusterId = "C"+clusterNumber;
+					ArrayList<String> list = resultsMap.get(clusterId);
+					if(list == null) {
+						list = new ArrayList<String>();
+					}
+					list.add(documentId);
+					resultsMap.put(clusterId, list);
 				}
-				list.add(documentId);
-				resultsMap.put(clusterId, list);
+	            //Group Clusters by cluster number
+	            
+	            ClusterTest.processConfusionMatrixAndPrintResults(resultsMap,out);
+	            
+	            System.out.println("Silhoutte Score: " + a.silhouetteScore());
+	            out.println("Silhoutte Score: " + a.silhouetteScore());
+	            System.out.println("------------------------");
+	            out.println("------------------------");
 			}
-            //Group Clusters by cluster number
-            
-            ClusterTest.processConfusionMatrixAndPrintResults(resultsMap);
-            
-            System.out.println("Silhoutte Score: " + a.silhouetteScore());
-            System.out.println("------------------------");
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
+        
+        
         /*dp.setModel(cluster);
         frame.setVisible(true);*/
        /* ConfusionMatrix confusionMatrix = new ConfusionMatrix();

@@ -19,11 +19,6 @@ arrival->reassemble
 arrival->game
 arrival->drop
 arrival->dynasty
-ists->dchhabra
-ists->stpl
-ists->edu
-ists->edu
-ists->pitt
 increase->winning
 increase->team
 increase->butt
@@ -52,6 +47,7 @@ attendance->etc
 attendance->came
 attendance->started
 attendance->team
+attendance->edu
 attendance->butt
 attendance->haven
 attendance->record
@@ -60,6 +56,7 @@ attendance->year
 attendance->last
 attendance->drop
 attendance->merchandising
+attendance->pitt
 mario->winning
 mario->made
 mario->etc
@@ -109,9 +106,6 @@ etc->interest
 improve->make
 improve->record
 improve->player
-apr->edu
-apr->edu
-apr->pitt
 go->started
 go->thread
 go->play
@@ -159,9 +153,6 @@ lemieux->player
 lemieux->year
 lemieux->side
 lemieux->think
-edu->europa
-edu->reston
-edu->gtefsd
 improvement->record
 improvement->playoff
 improvement->year
@@ -189,6 +180,7 @@ gretzky->dynasty
 gretzky->merchandising
 make->reason
 make->expectation
+teemu->pitt
 term->last
 term->think
 mcnall->dynasty
@@ -196,7 +188,7 @@ mcnall->merchandising
 game->year
 selanne->doubt
 selanne->expectation
-edu->gtefsd
+selanne->pitt
 think->fan
 think->applies
 fan->applies

@@ -23,9 +23,6 @@ person->sight
 person->teaches
 person->sinner
 person->world
-canada->aramis
-canada->christian
-canada->office
 anger->perish
 anger->burn
 anger->set
@@ -132,11 +129,9 @@ sin->speak
 sin->seat
 sin->hath
 sin->hath
-mielke->christian
-mielke->religion
+mielke->love
 mielke->office
-dave->christian
-dave->religion
+dave->love
 dave->office
 return->death
 return->applies
@@ -156,9 +151,6 @@ give->faith
 give->earth
 give->heart
 give->idea
-athos->christian
-athos->davem
-athos->bnr
 repent->escape
 repent->come
 repent->presence
@@ -374,8 +366,6 @@ one->hath
 one->return
 one->postpone
 one->life
-ottawa->christian
-ottawa->office
 night->earth
 night->melt
 night->works
@@ -396,8 +386,6 @@ peace->travail
 peace->woman
 peace->destruction
 peace->safety
-christian->davem
-christian->bnr
 bible->time
 bible->side
 bible->believeth
@@ -545,8 +533,6 @@ copy->find
 copy->list
 copy->call
 demands->payment
-research->respect
-research->ignore
 teaches->world
 feel->respect
 feel->davem
