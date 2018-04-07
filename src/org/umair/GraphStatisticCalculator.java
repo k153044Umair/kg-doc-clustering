@@ -132,6 +132,9 @@ public class GraphStatisticCalculator implements Runnable {
 				
 				double similarity = (0.5 * ((double)commonNodesCount/vertexSetOfLargerGraph.size())) + (0.5 * ((double)commonEdgesCount/edgeSetOfLargerGraph.size()));
 				System.out.println("similarity: " + similarity);
+				if(Double.valueOf(similarity).isNaN()) {
+					similarity = 0.0;
+				}
 				similarityMatrix[i][j] = similarity;
 				similarityMatrix[j][i] = similarity;
 			}
@@ -189,8 +192,8 @@ public class GraphStatisticCalculator implements Runnable {
         PrintWriter out;
 		try {
 			System.out.println("Creating Text file for: " + fileName);
-			new File("results/txt/").mkdirs();
-			out = new PrintWriter(new FileWriter("results/txt/" + fileName + ".txt"));
+			new File("results/cm/").mkdirs();
+			out = new PrintWriter(new FileWriter("results/cm/" + fileName + ".txt"));
 			out.println("-----------------------------------");
 			final Array2DRowRealMatrix mat = new Array2DRowRealMatrix(distances);
 	        for(Linkage linkage: HierarchicalAgglomerative.Linkage.values()) {
@@ -223,6 +226,8 @@ public class GraphStatisticCalculator implements Runnable {
 	            System.out.println("------------------------");
 	            out.println("------------------------");
 			}
+	        out.flush();
+	        out.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
