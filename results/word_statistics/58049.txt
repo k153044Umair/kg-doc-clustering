@@ -1,0 +1,350 @@
+Word: com
+Frequency: 7
+Word Occurances : [1, 1, 1, 2, 3, 5, 16]
+Sentence Numbers: NN
+------------------
+Word: ftpbox
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: risk
+Frequency: 2
+Word Occurances : [9, 12]
+Sentence Numbers: NN
+------------------
+Word: diet
+Frequency: 1
+Word Occurances : [14]
+Sentence Numbers: NN
+------------------
+Word: mothost
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: ldl
+Frequency: 4
+Word Occurances : [10, 10, 11, 12]
+Sentence Numbers: NN
+------------------
+Word: doug
+Frequency: 2
+Word Occurances : [2, 16]
+Sentence Numbers: NN
+------------------
+Word: gabe
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: exercise
+Frequency: 1
+Word Occurances : [14]
+Sentence Numbers: NN
+------------------
+Word: blood
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: europa
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: casbah
+Frequency: 1
+Word Occurances : [18]
+Sentence Numbers: NN
+------------------
+Word: re
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: cantaloupe
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: health
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: NN
+------------------
+Word: hdl
+Frequency: 4
+Word Occurances : [10, 10, 12, 13]
+Sentence Numbers: NN
+------------------
+Word: wupost
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: crabapple
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: bank
+Frequency: 2
+Word Occurances : [2, 16]
+Sentence Numbers: NN
+------------------
+Word: georgec
+Frequency: 1
+Word Occurances : [8]
+Sentence Numbers: NN
+------------------
+Word: use
+Frequency: 1
+Word Occurances : [10]
+Sentence Numbers: VB
+------------------
+Word: reply
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: eng
+Frequency: 4
+Word Occurances : [1, 4, 7, 8]
+Sentence Numbers: NN
+------------------
+Word: term
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: NN
+------------------
+Word: organization
+Frequency: 1
+Word Occurances : [3]
+Sentence Numbers: NN
+------------------
+Word: clark
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: NN
+------------------
+Word: mot
+Frequency: 6
+Word Occurances : [1, 1, 2, 3, 5, 16]
+Sentence Numbers: NN
+------------------
+Word: evening
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: NN
+------------------
+Word: schaumburg
+Frequency: 1
+Word Occurances : [18]
+Sentence Numbers: NN
+------------------
+Word: nwu
+Frequency: 1
+Word Occurances : [17, 18]
+Sentence Numbers: NN
+------------------
+Word: land
+Frequency: 1
+Word Occurances : [3]
+Sentence Numbers: NN
+------------------
+Word: comm
+Frequency: 4
+Word Occurances : [1, 1, 2, 3, 5, 16]
+Sentence Numbers: NN
+------------------
+Word: subject
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: article
+Frequency: 1
+Word Occurances : [7]
+Sentence Numbers: NN
+------------------
+Word: choice
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: NN
+------------------
+Word: something
+Frequency: 1
+Word Occurances : [12]
+Sentence Numbers: NN
+------------------
+Word: morning
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: NN
+------------------
+Word: nntp
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: motorola
+Frequency: 2
+Word Occurances : [3, 17]
+Sentence Numbers: NN
+------------------
+Word: uinnnqa
+Frequency: 1
+Word Occurances : [4, 7]
+Sentence Numbers: NN
+------------------
+Word: news
+Frequency: 2
+Word Occurances : [5, 6]
+Sentence Numbers: NN
+------------------
+Word: drug
+Frequency: 2
+Word Occurances : [13, 15]
+Sentence Numbers: NN
+------------------
+Word: ecs
+Frequency: 2
+Word Occurances : [2, 16]
+Sentence Numbers: NN
+------------------
+Word: srv
+Frequency: 2
+Word Occurances : [1, 1]
+Sentence Numbers: NN
+------------------
+Word: advice
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: mg
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: NN
+------------------
+Word: udel
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: george
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: NN
+------------------
+Word: tablet
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: NN
+------------------
+Word: message
+Frequency: 1
+Word Occurances : [3]
+Sentence Numbers: NN
+------------------
+Word: gatech
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: umd
+Frequency: 3
+Word Occurances : [4, 7, 8]
+Sentence Numbers: NN
+------------------
+Word: writes
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: VBZ
+------------------
+Word: path
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: host
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: forget
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: VB
+------------------
+Word: pka
+Frequency: 1
+Word Occurances : [4, 7]
+Sentence Numbers: VBD
+------------------
+Word: dougb
+Frequency: 1
+Word Occurances : [1, 1, 2, 16, 17, 18]
+Sentence Numbers: VB
+------------------
+Word: illinois
+Frequency: 1
+Word Occurances : [18]
+Sentence Numbers: VBZ
+------------------
+Word: dougb
+Frequency: 5
+Word Occurances : [1, 1, 2, 16, 17, 18]
+Sentence Numbers: NN
+------------------
+Word: division
+Frequency: 1
+Word Occurances : [16]
+Sentence Numbers: NN
+------------------
+Word: sector
+Frequency: 2
+Word Occurances : [3, 17]
+Sentence Numbers: NN
+------------------
+Word: uunet
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: sender
+Frequency: 1
+Word Occurances : [5]
+Sentence Numbers: NN
+------------------
+Word: mojo
+Frequency: 2
+Word Occurances : [4, 7]
+Sentence Numbers: NN
+------------------
+Word: mirkin
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: gtefsd
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: VBD
+------------------
+Word: edu
+Frequency: 4
+Word Occurances : [1, 1, 1, 4, 7, 8, 17, 18]
+Sentence Numbers: NN
+------------------
+Word: relationship
+Frequency: 1
+Word Occurances : [10]
+Sentence Numbers: NN
+------------------
+Word: cholesterol
+Frequency: 3
+Word Occurances : [2, 9, 10]
+Sentence Numbers: NN
+------------------

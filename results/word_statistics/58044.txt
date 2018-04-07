@@ -1,0 +1,1865 @@
+Word: cb
+Frequency: 2
+Word Occurances : [2, 5]
+Sentence Numbers: NN
+------------------
+Word: home
+Frequency: 1
+Word Occurances : [81]
+Sentence Numbers: NN
+------------------
+Word: thrift
+Frequency: 2
+Word Occurances : [88, 112]
+Sentence Numbers: NN
+------------------
+Word: sal
+Frequency: 1
+Word Occurances : [26]
+Sentence Numbers: NN
+------------------
+Word: szasz
+Frequency: 2
+Word Occurances : [46, 111]
+Sentence Numbers: NN
+------------------
+Word: scott
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: poole
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: freedom
+Frequency: 3
+Word Occurances : [44, 49, 88]
+Sentence Numbers: NN
+------------------
+Word: comedy
+Frequency: 1
+Word Occurances : [48]
+Sentence Numbers: NN
+------------------
+Word: toole
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: institute
+Frequency: 11
+Word Occurances : [18, 42, 43, 44, 45, 58, 88, 88, 115, 115, 115]
+Sentence Numbers: NN
+------------------
+Word: increase
+Frequency: 1
+Word Occurances : [89, 112]
+Sentence Numbers: NN
+------------------
+Word: tie
+Frequency: 1
+Word Occurances : [52]
+Sentence Numbers: NN
+------------------
+Word: sponsored
+Frequency: 1
+Word Occurances : [99, 103]
+Sentence Numbers: VBD
+------------------
+Word: cause
+Frequency: 1
+Word Occurances : [95]
+Sentence Numbers: NN
+------------------
+Word: liberty
+Frequency: 6
+Word Occurances : [7, 16, 38, 58, 82, 109]
+Sentence Numbers: NN
+------------------
+Word: student
+Frequency: 1
+Word Occurances : [89]
+Sentence Numbers: NN
+------------------
+Word: cantaloupe
+Frequency: 2
+Word Occurances : [0, 6]
+Sentence Numbers: NN
+------------------
+Word: continues
+Frequency: 1
+Word Occurances : [41]
+Sentence Numbers: VBZ
+------------------
+Word: jeff
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: race
+Frequency: 1
+Word Occurances : [83]
+Sentence Numbers: NN
+------------------
+Word: riser
+Frequency: 1
+Word Occurances : [88, 112]
+Sentence Numbers: NN
+------------------
+Word: opposition
+Frequency: 1
+Word Occurances : [28]
+Sentence Numbers: NN
+------------------
+Word: ham
+Frequency: 1
+Word Occurances : [5]
+Sentence Numbers: NN
+------------------
+Word: sheldon
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: adoption
+Frequency: 1
+Word Occurances : [116]
+Sentence Numbers: NN
+------------------
+Word: crowd
+Frequency: 1
+Word Occurances : [47]
+Sentence Numbers: NN
+------------------
+Word: econ
+Frequency: 2
+Word Occurances : [4, 5]
+Sentence Numbers: NN
+------------------
+Word: music
+Frequency: 1
+Word Occurances : [48]
+Sentence Numbers: NN
+------------------
+Word: consider
+Frequency: 1
+Word Occurances : [34]
+Sentence Numbers: VB
+------------------
+Word: opens
+Frequency: 1
+Word Occurances : [39]
+Sentence Numbers: VBZ
+------------------
+Word: evening
+Frequency: 1
+Word Occurances : [43]
+Sentence Numbers: NN
+------------------
+Word: demand
+Frequency: 2
+Word Occurances : [16, 113]
+Sentence Numbers: NN
+------------------
+Word: joseph
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: follows
+Frequency: 1
+Word Occurances : [53]
+Sentence Numbers: VBZ
+------------------
+Word: nominating
+Frequency: 2
+Word Occurances : [116, 116]
+Sentence Numbers: NN
+------------------
+Word: glory
+Frequency: 3
+Word Occurances : [12, 119, 123]
+Sentence Numbers: NN
+------------------
+Word: patrick
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: work
+Frequency: 1
+Word Occurances : [108]
+Sentence Numbers: VB
+------------------
+Word: gala
+Frequency: 1
+Word Occurances : [40]
+Sentence Numbers: NN
+------------------
+Word: bonnie
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: subject
+Frequency: 1
+Word Occurances : [7]
+Sentence Numbers: NN
+------------------
+Word: lp
+Frequency: 2
+Word Occurances : [69, 75]
+Sentence Numbers: NN
+------------------
+Word: lamb
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: jarret
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: academia
+Frequency: 1
+Word Occurances : [85]
+Sentence Numbers: NN
+------------------
+Word: friday
+Frequency: 1
+Word Occurances : [49]
+Sentence Numbers: NN
+------------------
+Word: followup
+Frequency: 1
+Word Occurances : [8]
+Sentence Numbers: NN
+------------------
+Word: caucus
+Frequency: 1
+Word Occurances : [108]
+Sentence Numbers: NN
+------------------
+Word: something
+Frequency: 1
+Word Occurances : [58]
+Sentence Numbers: NN
+------------------
+Word: jacob
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: gus
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: ahmad
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: kathleen
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: draw
+Frequency: 1
+Word Occurances : [56, 94]
+Sentence Numbers: NN
+------------------
+Word: boch
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: wanted
+Frequency: 1
+Word Occurances : [26]
+Sentence Numbers: VBD
+------------------
+Word: care
+Frequency: 1
+Word Occurances : [61]
+Sentence Numbers: NN
+------------------
+Word: program
+Frequency: 1
+Word Occurances : [93]
+Sentence Numbers: NN
+------------------
+Word: order
+Frequency: 1
+Word Occurances : [41, 115, 116]
+Sentence Numbers: VB
+------------------
+Word: inn
+Frequency: 3
+Word Occurances : [43, 47, 47]
+Sentence Numbers: NN
+------------------
+Word: alexander
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: set
+Frequency: 1
+Word Occurances : [115]
+Sentence Numbers: NN
+------------------
+Word: contest
+Frequency: 1
+Word Occurances : [99]
+Sentence Numbers: NN
+------------------
+Word: august
+Frequency: 2
+Word Occurances : [26, 29]
+Sentence Numbers: VB
+------------------
+Word: drive
+Frequency: 1
+Word Occurances : [94]
+Sentence Numbers: NN
+------------------
+Word: path
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: mail
+Frequency: 2
+Word Occurances : [11, 122]
+Sentence Numbers: NN
+------------------
+Word: ernsberger
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: carole
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: alan
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: sharon
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: talk
+Frequency: 1
+Word Occurances : [8, 58]
+Sentence Numbers: VB
+------------------
+Word: dean
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: win
+Frequency: 1
+Word Occurances : [97]
+Sentence Numbers: VB
+------------------
+Word: fund
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: circle
+Frequency: 1
+Word Occurances : [49]
+Sentence Numbers: NN
+------------------
+Word: hudler
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: joyful
+Frequency: 1
+Word Occurances : [45, 88]
+Sentence Numbers: NN
+------------------
+Word: leader
+Frequency: 1
+Word Occurances : [46]
+Sentence Numbers: NN
+------------------
+Word: sept
+Frequency: 2
+Word Occurances : [26, 29, 38, 39, 43, 44, 45, 87, 88, 88]
+Sentence Numbers: NN
+------------------
+Word: please
+Frequency: 1
+Word Occurances : [89]
+Sentence Numbers: VB
+------------------
+Word: bob
+Frequency: 1
+Word Occurances : [6, 7, 10, 11, 111, 111, 122]
+Sentence Numbers: VB
+------------------
+Word: edu
+Frequency: 6
+Word Occurances : [0, 6, 6, 6, 6, 6]
+Sentence Numbers: NN
+------------------
+Word: dan
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: begins
+Frequency: 2
+Word Occurances : [39, 42]
+Sentence Numbers: VBZ
+------------------
+Word: delegate
+Frequency: 3
+Word Occurances : [16, 114, 115]
+Sentence Numbers: NN
+------------------
+Word: vice
+Frequency: 1
+Word Occurances : [117]
+Sentence Numbers: NN
+------------------
+Word: prospectus
+Frequency: 1
+Word Occurances : [101]
+Sentence Numbers: NN
+------------------
+Word: college
+Frequency: 5
+Word Occurances : [58, 89, 106, 107, 109]
+Sentence Numbers: NN
+------------------
+Word: bob
+Frequency: 3
+Word Occurances : [6, 7, 10, 11, 111, 111, 122]
+Sentence Numbers: NN
+------------------
+Word: register
+Frequency: 1
+Word Occurances : [97, 119]
+Sentence Numbers: VB
+------------------
+Word: event
+Frequency: 5
+Word Occurances : [56, 87, 91, 104, 112]
+Sentence Numbers: NN
+------------------
+Word: opportunity
+Frequency: 2
+Word Occurances : [51, 57]
+Sentence Numbers: NN
+------------------
+Word: center
+Frequency: 1
+Word Occurances : [17]
+Sentence Numbers: NN
+------------------
+Word: ale
+Frequency: 1
+Word Occurances : [47]
+Sentence Numbers: NN
+------------------
+Word: utah
+Frequency: 2
+Word Occurances : [16, 17]
+Sentence Numbers: NN
+------------------
+Word: tim
+Frequency: 1
+Word Occurances : [49]
+Sentence Numbers: NN
+------------------
+Word: bi
+Frequency: 2
+Word Occurances : [4, 5]
+Sentence Numbers: NN
+------------------
+Word: id
+Frequency: 1
+Word Occurances : [7]
+Sentence Numbers: VBD
+------------------
+Word: vote
+Frequency: 1
+Word Occurances : [35]
+Sentence Numbers: NN
+------------------
+Word: drink
+Frequency: 1
+Word Occurances : [48]
+Sentence Numbers: NN
+------------------
+Word: rthomson
+Frequency: 3
+Word Occurances : [6, 9, 124, 124]
+Sentence Numbers: NNP
+------------------
+Word: provide
+Frequency: 1
+Word Occurances : [25]
+Sentence Numbers: VB
+------------------
+Word: russell
+Frequency: 1
+Word Occurances : [40, 111]
+Sentence Numbers: NN
+------------------
+Word: increase
+Frequency: 1
+Word Occurances : [89, 112]
+Sentence Numbers: VB
+------------------
+Word: end
+Frequency: 1
+Word Occurances : [41]
+Sentence Numbers: NN
+------------------
+Word: area
+Frequency: 2
+Word Occurances : [50, 56]
+Sentence Numbers: NN
+------------------
+Word: collar
+Frequency: 1
+Word Occurances : [86]
+Sentence Numbers: NN
+------------------
+Word: box
+Frequency: 2
+Word Occurances : [12, 121]
+Sentence Numbers: NN
+------------------
+Word: dragon
+Frequency: 2
+Word Occurances : [43, 47]
+Sentence Numbers: NN
+------------------
+Word: noise
+Frequency: 2
+Word Occurances : [45, 88]
+Sentence Numbers: NN
+------------------
+Word: marriott
+Frequency: 5
+Word Occurances : [16, 17, 18, 19, 52]
+Sentence Numbers: NN
+------------------
+Word: discuss
+Frequency: 1
+Word Occurances : [109]
+Sentence Numbers: VB
+------------------
+Word: hess
+Frequency: 12
+Word Occurances : [18, 42, 43, 44, 45, 58, 88, 88, 111, 111, 115, 115]
+Sentence Numbers: NN
+------------------
+Word: concert
+Frequency: 1
+Word Occurances : [49]
+Sentence Numbers: NN
+------------------
+Word: rock
+Frequency: 5
+Word Occurances : [44, 49, 49, 49, 88]
+Sentence Numbers: NN
+------------------
+Word: reply
+Frequency: 1
+Word Occurances : [10]
+Sentence Numbers: NN
+------------------
+Word: salt
+Frequency: 8
+Word Occurances : [12, 16, 16, 17, 17, 18, 30, 121]
+Sentence Numbers: NN
+------------------
+Word: tax
+Frequency: 1
+Word Occurances : [20]
+Sentence Numbers: NN
+------------------
+Word: document
+Frequency: 1
+Word Occurances : [41]
+Sentence Numbers: NN
+------------------
+Word: outreach
+Frequency: 1
+Word Occurances : [51, 57, 88]
+Sentence Numbers: NN
+------------------
+Word: committee
+Frequency: 9
+Word Occurances : [29, 30, 39, 95, 116, 116, 116, 117, 117]
+Sentence Numbers: NN
+------------------
+Word: policy
+Frequency: 1
+Word Occurances : [66]
+Sentence Numbers: NN
+------------------
+Word: poverty
+Frequency: 1
+Word Occurances : [108]
+Sentence Numbers: NN
+------------------
+Word: public
+Frequency: 1
+Word Occurances : [36]
+Sentence Numbers: NN
+------------------
+Word: jane
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: submission
+Frequency: 1
+Word Occurances : [100]
+Sentence Numbers: NN
+------------------
+Word: marksmanship
+Frequency: 1
+Word Occurances : [102]
+Sentence Numbers: NN
+------------------
+Word: day
+Frequency: 2
+Word Occurances : [88, 91]
+Sentence Numbers: NN
+------------------
+Word: rthomson
+Frequency: 1
+Word Occurances : [6, 9, 124, 124]
+Sentence Numbers: NN
+------------------
+Word: draw
+Frequency: 1
+Word Occurances : [56, 94]
+Sentence Numbers: VB
+------------------
+Word: meet
+Frequency: 1
+Word Occurances : [109]
+Sentence Numbers: VB
+------------------
+Word: shortwave
+Frequency: 2
+Word Occurances : [3, 5]
+Sentence Numbers: NN
+------------------
+Word: violence
+Frequency: 1
+Word Occurances : [67]
+Sentence Numbers: NN
+------------------
+Word: sept
+Frequency: 2
+Word Occurances : [26, 29, 38, 39, 43, 44, 45, 87, 88, 88]
+Sentence Numbers: VBD
+------------------
+Word: dawns
+Frequency: 1
+Word Occurances : [43, 44, 45, 46]
+Sentence Numbers: VBZ
+------------------
+Word: bill
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: leon
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: space
+Frequency: 3
+Word Occurances : [4, 5, 95]
+Sentence Numbers: NN
+------------------
+Word: majority
+Frequency: 1
+Word Occurances : [30]
+Sentence Numbers: NN
+------------------
+Word: sept
+Frequency: 5
+Word Occurances : [26, 29, 38, 39, 43, 44, 45, 87, 88, 88]
+Sentence Numbers: VB
+------------------
+Word: gordon
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: VB
+------------------
+Word: nntp
+Frequency: 1
+Word Occurances : [10]
+Sentence Numbers: NN
+------------------
+Word: room
+Frequency: 3
+Word Occurances : [19, 22, 24]
+Sentence Numbers: NN
+------------------
+Word: break
+Frequency: 1
+Word Occurances : [41]
+Sentence Numbers: NN
+------------------
+Word: information
+Frequency: 1
+Word Occurances : [16]
+Sentence Numbers: NN
+------------------
+Word: meeting
+Frequency: 1
+Word Occurances : [103]
+Sentence Numbers: NN
+------------------
+Word: dsd
+Frequency: 2
+Word Occurances : [7, 9, 124, 124]
+Sentence Numbers: NN
+------------------
+Word: activity
+Frequency: 1
+Word Occurances : [46]
+Sentence Numbers: NN
+------------------
+Word: night
+Frequency: 4
+Word Occurances : [20, 47, 49, 103]
+Sentence Numbers: NN
+------------------
+Word: focus
+Frequency: 2
+Word Occurances : [84, 88, 112, 115]
+Sentence Numbers: NN
+------------------
+Word: shoot
+Frequency: 1
+Word Occurances : [30]
+Sentence Numbers: VB
+------------------
+Word: drug
+Frequency: 1
+Word Occurances : [63]
+Sentence Numbers: NN
+------------------
+Word: british
+Frequency: 1
+Word Occurances : [47]
+Sentence Numbers: NN
+------------------
+Word: rule
+Frequency: 1
+Word Occurances : [35]
+Sentence Numbers: NN
+------------------
+Word: group
+Frequency: 1
+Word Occurances : [95]
+Sentence Numbers: NN
+------------------
+Word: price
+Frequency: 2
+Word Occurances : [29, 91]
+Sentence Numbers: NN
+------------------
+Word: maury
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: george
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: ballroom
+Frequency: 1
+Word Occurances : [52]
+Sentence Numbers: NN
+------------------
+Word: computer
+Frequency: 1
+Word Occurances : [102]
+Sentence Numbers: NN
+------------------
+Word: election
+Frequency: 2
+Word Occurances : [117, 117]
+Sentence Numbers: NN
+------------------
+Word: order
+Frequency: 2
+Word Occurances : [41, 115, 116]
+Sentence Numbers: NN
+------------------
+Word: ut
+Frequency: 3
+Word Occurances : [12, 12, 121]
+Sentence Numbers: NN
+------------------
+Word: total
+Frequency: 1
+Word Occurances : [21, 87, 91, 112]
+Sentence Numbers: NN
+------------------
+Word: ayittey
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: youth
+Frequency: 1
+Word Occurances : [86]
+Sentence Numbers: NN
+------------------
+Word: start
+Frequency: 1
+Word Occurances : [46]
+Sentence Numbers: VB
+------------------
+Word: arnold
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: palace
+Frequency: 3
+Word Occurances : [16, 17, 18]
+Sentence Numbers: NN
+------------------
+Word: psychiatrist
+Frequency: 1
+Word Occurances : [46]
+Sentence Numbers: NN
+------------------
+Word: perry
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: generation
+Frequency: 2
+Word Occurances : [58, 58]
+Sentence Numbers: NN
+------------------
+Word: sender
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: NN
+------------------
+Word: package
+Frequency: 2
+Word Occurances : [87, 91]
+Sentence Numbers: NN
+------------------
+Word: souvenirs
+Frequency: 1
+Word Occurances : [88]
+Sentence Numbers: VBD
+------------------
+Word: maximum
+Frequency: 1
+Word Occurances : [56]
+Sentence Numbers: NN
+------------------
+Word: ceremony
+Frequency: 1
+Word Occurances : [40]
+Sentence Numbers: NN
+------------------
+Word: david
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: trouble
+Frequency: 1
+Word Occurances : [47]
+Sentence Numbers: NN
+------------------
+Word: fiction
+Frequency: 1
+Word Occurances : [46]
+Sentence Numbers: NN
+------------------
+Word: plotted
+Frequency: 1
+Word Occurances : [47]
+Sentence Numbers: VBD
+------------------
+Word: gtefsd
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: VBD
+------------------
+Word: date
+Frequency: 1
+Word Occurances : [12]
+Sentence Numbers: NN
+------------------
+Word: ballot
+Frequency: 1
+Word Occurances : [71]
+Sentence Numbers: NN
+------------------
+Word: candidate
+Frequency: 3
+Word Occurances : [88, 91, 112]
+Sentence Numbers: NN
+------------------
+Word: soc
+Frequency: 2
+Word Occurances : [4, 5]
+Sentence Numbers: NN
+------------------
+Word: com
+Frequency: 4
+Word Occurances : [6, 7, 9, 124, 124]
+Sentence Numbers: NN
+------------------
+Word: hadar
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: address
+Frequency: 2
+Word Occurances : [40, 88]
+Sentence Numbers: NN
+------------------
+Word: anyone
+Frequency: 1
+Word Occurances : [89]
+Sentence Numbers: NN
+------------------
+Word: change
+Frequency: 1
+Word Occurances : [31, 35]
+Sentence Numbers: NN
+------------------
+Word: jr
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: future
+Frequency: 1
+Word Occurances : [109]
+Sentence Numbers: NN
+------------------
+Word: research
+Frequency: 1
+Word Occurances : [28]
+Sentence Numbers: NN
+------------------
+Word: food
+Frequency: 1
+Word Occurances : [48]
+Sentence Numbers: NN
+------------------
+Word: community
+Frequency: 2
+Word Occurances : [78, 94]
+Sentence Numbers: NN
+------------------
+Word: waldrop
+Frequency: 6
+Word Occurances : [6, 7, 10, 11, 111, 122]
+Sentence Numbers: NN
+------------------
+Word: ask
+Frequency: 1
+Word Occurances : [26]
+Sentence Numbers: VB
+------------------
+Word: pledge
+Frequency: 1
+Word Occurances : [30]
+Sentence Numbers: NN
+------------------
+Word: misc
+Frequency: 2
+Word Occurances : [1, 4, 5, 5, 8]
+Sentence Numbers: NN
+------------------
+Word: neil
+Frequency: 2
+Word Occurances : [46, 111]
+Sentence Numbers: NN
+------------------
+Word: crabapple
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: attention
+Frequency: 1
+Word Occurances : [106]
+Sentence Numbers: NN
+------------------
+Word: membership
+Frequency: 1
+Word Occurances : [31]
+Sentence Numbers: NN
+------------------
+Word: lord
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: jim
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: dancer
+Frequency: 1
+Word Occurances : [49]
+Sentence Numbers: NN
+------------------
+Word: dagny
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: rand
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: usenet
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: NN
+------------------
+Word: dsd
+Frequency: 1
+Word Occurances : [7, 9, 124, 124]
+Sentence Numbers: VBD
+------------------
+Word: eng
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: mesa
+Frequency: 1
+Word Occurances : [6, 9]
+Sentence Numbers: NN
+------------------
+Word: fundraising
+Frequency: 1
+Word Occurances : [28]
+Sentence Numbers: NN
+------------------
+Word: report
+Frequency: 5
+Word Occurances : [39, 116, 116, 116, 116]
+Sentence Numbers: NN
+------------------
+Word: schooling
+Frequency: 1
+Word Occurances : [81]
+Sentence Numbers: NN
+------------------
+Word: age
+Frequency: 2
+Word Occurances : [58, 89]
+Sentence Numbers: NN
+------------------
+Word: nomination
+Frequency: 2
+Word Occurances : [77, 117]
+Sentence Numbers: NN
+------------------
+Word: contact
+Frequency: 5
+Word Occurances : [95, 101, 105, 110, 119]
+Sentence Numbers: NN
+------------------
+Word: drawing
+Frequency: 1
+Word Occurances : [96]
+Sentence Numbers: NN
+------------------
+Word: movement
+Frequency: 1
+Word Occurances : [109]
+Sentence Numbers: NN
+------------------
+Word: beer
+Frequency: 1
+Word Occurances : [47]
+Sentence Numbers: NN
+------------------
+Word: programmer
+Frequency: 1
+Word Occurances : [125]
+Sentence Numbers: NN
+------------------
+Word: hummel
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: karl
+Frequency: 11
+Word Occurances : [18, 42, 43, 44, 45, 58, 88, 88, 111, 111, 115, 115]
+Sentence Numbers: NN
+------------------
+Word: rick
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: school
+Frequency: 2
+Word Occurances : [58, 107]
+Sentence Numbers: NN
+------------------
+Word: tanner
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: advertising
+Frequency: 1
+Word Occurances : [93, 112]
+Sentence Numbers: NN
+------------------
+Word: copyright
+Frequency: 1
+Word Occurances : [124]
+Sentence Numbers: NN
+------------------
+Word: veteran
+Frequency: 1
+Word Occurances : [26]
+Sentence Numbers: NN
+------------------
+Word: assistance
+Frequency: 1
+Word Occurances : [25]
+Sentence Numbers: NN
+------------------
+Word: considers
+Frequency: 1
+Word Occurances : [59]
+Sentence Numbers: VBZ
+------------------
+Word: amendment
+Frequency: 1
+Word Occurances : [64]
+Sentence Numbers: NN
+------------------
+Word: celebrate
+Frequency: 2
+Word Occurances : [7, 16, 38, 109]
+Sentence Numbers: VB
+------------------
+Word: mozart
+Frequency: 1
+Word Occurances : [52]
+Sentence Numbers: VB
+------------------
+Word: compromise
+Frequency: 1
+Word Occurances : [32]
+Sentence Numbers: NN
+------------------
+Word: radio
+Frequency: 7
+Word Occurances : [1, 2, 3, 5, 5, 5, 5]
+Sentence Numbers: NN
+------------------
+Word: dr
+Frequency: 8
+Word Occurances : [46, 111, 111, 111, 111, 111, 111, 111]
+Sentence Numbers: NN
+------------------
+Word: religion
+Frequency: 1
+Word Occurances : [82]
+Sentence Numbers: NN
+------------------
+Word: gmt
+Frequency: 1
+Word Occurances : [12]
+Sentence Numbers: NN
+------------------
+Word: wollstein
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: light
+Frequency: 1
+Word Occurances : [43, 44, 45, 46]
+Sentence Numbers: NN
+------------------
+Word: libertarian
+Frequency: 2
+Word Occurances : [16, 30, 41, 42, 46, 58, 102, 115, 123]
+Sentence Numbers: NN
+------------------
+Word: nancy
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: training
+Frequency: 4
+Word Occurances : [26, 88, 91, 112]
+Sentence Numbers: NN
+------------------
+Word: hall
+Frequency: 1
+Word Occurances : [88]
+Sentence Numbers: NN
+------------------
+Word: criticism
+Frequency: 1
+Word Occurances : [119]
+Sentence Numbers: NN
+------------------
+Word: service
+Frequency: 1
+Word Occurances : [98]
+Sentence Numbers: NN
+------------------
+Word: apr
+Frequency: 1
+Word Occurances : [7, 12]
+Sentence Numbers: NN
+------------------
+Word: payment
+Frequency: 2
+Word Occurances : [24, 90]
+Sentence Numbers: NN
+------------------
+Word: charge
+Frequency: 1
+Word Occurances : [37]
+Sentence Numbers: NN
+------------------
+Word: henry
+Frequency: 2
+Word Occurances : [111, 111]
+Sentence Numbers: NN
+------------------
+Word: rosenthal
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: VBD
+------------------
+Word: winger
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: lake
+Frequency: 5
+Word Occurances : [12, 16, 17, 30, 121]
+Sentence Numbers: NN
+------------------
+Word: host
+Frequency: 1
+Word Occurances : [10]
+Sentence Numbers: NN
+------------------
+Word: king
+Frequency: 2
+Word Occurances : [111, 111]
+Sentence Numbers: NN
+------------------
+Word: means
+Frequency: 1
+Word Occurances : [40, 111]
+Sentence Numbers: VBZ
+------------------
+Word: expo
+Frequency: 8
+Word Occurances : [16, 18, 39, 54, 88, 93, 94, 94]
+Sentence Numbers: NN
+------------------
+Word: st
+Frequency: 1
+Word Occurances : [62, 112]
+Sentence Numbers: NN
+------------------
+Word: roll
+Frequency: 1
+Word Occurances : [49]
+Sentence Numbers: NN
+------------------
+Word: truth
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: uunet
+Frequency: 2
+Word Occurances : [6, 124]
+Sentence Numbers: NN
+------------------
+Word: didn
+Frequency: 1
+Word Occurances : [26]
+Sentence Numbers: NN
+------------------
+Word: michael
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: pext
+Frequency: 1
+Word Occurances : [125]
+Sentence Numbers: NN
+------------------
+Word: war
+Frequency: 1
+Word Occurances : [63]
+Sentence Numbers: NN
+------------------
+Word: speak
+Frequency: 1
+Word Occurances : [124]
+Sentence Numbers: VB
+------------------
+Word: originator
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: NN
+------------------
+Word: sequence
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: NN
+------------------
+Word: debate
+Frequency: 1
+Word Occurances : [69]
+Sentence Numbers: NN
+------------------
+Word: author
+Frequency: 2
+Word Occurances : [46, 46]
+Sentence Numbers: NN
+------------------
+Word: agenda
+Frequency: 2
+Word Occurances : [59, 116]
+Sentence Numbers: NN
+------------------
+Word: purchase
+Frequency: 1
+Word Occurances : [24]
+Sentence Numbers: VB
+------------------
+Word: everything
+Frequency: 3
+Word Occurances : [26, 28, 88]
+Sentence Numbers: NN
+------------------
+Word: org
+Frequency: 3
+Word Occurances : [6, 10, 122]
+Sentence Numbers: NN
+------------------
+Word: abundance
+Frequency: 1
+Word Occurances : [80]
+Sentence Numbers: NN
+------------------
+Word: tandem
+Frequency: 1
+Word Occurances : [42]
+Sentence Numbers: NN
+------------------
+Word: versus
+Frequency: 1
+Word Occurances : [30]
+Sentence Numbers: NN
+------------------
+Word: stroup
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: modine
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: housing
+Frequency: 2
+Word Occurances : [90, 108]
+Sentence Numbers: NN
+------------------
+Word: month
+Frequency: 2
+Word Occurances : [90, 96]
+Sentence Numbers: NN
+------------------
+Word: change
+Frequency: 1
+Word Occurances : [31, 35]
+Sentence Numbers: VB
+------------------
+Word: fidonet
+Frequency: 3
+Word Occurances : [6, 10, 122]
+Sentence Numbers: NN
+------------------
+Word: presentation
+Frequency: 1
+Word Occurances : [95]
+Sentence Numbers: NN
+------------------
+Word: hotel
+Frequency: 6
+Word Occurances : [16, 17, 18, 19, 24, 96]
+Sentence Numbers: NN
+------------------
+Word: schedule
+Frequency: 1
+Word Occurances : [95]
+Sentence Numbers: VB
+------------------
+Word: gives
+Frequency: 1
+Word Occurances : [96]
+Sentence Numbers: VBZ
+------------------
+Word: competition
+Frequency: 1
+Word Occurances : [102]
+Sentence Numbers: NN
+------------------
+Word: lesbian
+Frequency: 1
+Word Occurances : [103]
+Sentence Numbers: NN
+------------------
+Word: convention
+Frequency: 23
+Word Occurances : [16, 17, 17, 33, 34, 35, 41, 41, 43, 44, 45, 45, 46, 87, 88, 88, 88, 93, 111, 112, 112, 115, 115]
+Sentence Numbers: NN
+------------------
+Word: environment
+Frequency: 1
+Word Occurances : [60]
+Sentence Numbers: NN
+------------------
+Word: europa
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: doris
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: VBZ
+------------------
+Word: treasurer
+Frequency: 1
+Word Occurances : [116]
+Sentence Numbers: NN
+------------------
+Word: make
+Frequency: 2
+Word Occurances : [24, 123]
+Sentence Numbers: VB
+------------------
+Word: health
+Frequency: 1
+Word Occurances : [61]
+Sentence Numbers: NN
+------------------
+Word: flickenger
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: breakfasts
+Frequency: 1
+Word Occurances : [18, 46, 88, 88]
+Sentence Numbers: VBZ
+------------------
+Word: wupost
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: request
+Frequency: 1
+Word Occurances : [98]
+Sentence Numbers: NN
+------------------
+Word: shaw
+Frequency: 2
+Word Occurances : [111, 111]
+Sentence Numbers: NN
+------------------
+Word: university
+Frequency: 1
+Word Occurances : [89]
+Sentence Numbers: NN
+------------------
+Word: richman
+Frequency: 2
+Word Occurances : [111, 111]
+Sentence Numbers: NN
+------------------
+Word: nolan
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: strategy
+Frequency: 2
+Word Occurances : [28, 69]
+Sentence Numbers: NN
+------------------
+Word: xref
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: party
+Frequency: 8
+Word Occurances : [16, 31, 34, 41, 47, 115, 117, 117]
+Sentence Numbers: NN
+------------------
+Word: organization
+Frequency: 2
+Word Occurances : [12, 95]
+Sentence Numbers: NN
+------------------
+Word: lieberman
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: dodge
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: banquet
+Frequency: 4
+Word Occurances : [18, 45, 52, 88]
+Sentence Numbers: NN
+------------------
+Word: lunch
+Frequency: 1
+Word Occurances : [41]
+Sentence Numbers: NN
+------------------
+Word: mgp
+Frequency: 8
+Word Occurances : [24, 25, 94, 96, 99, 101, 105, 110]
+Sentence Numbers: NN
+------------------
+Word: dining
+Frequency: 1
+Word Occurances : [52]
+Sentence Numbers: NN
+------------------
+Word: interest
+Frequency: 1
+Word Occurances : [95]
+Sentence Numbers: NN
+------------------
+Word: celebration
+Frequency: 3
+Word Occurances : [88, 112, 115]
+Sentence Numbers: NN
+------------------
+Word: packet
+Frequency: 1
+Word Occurances : [88]
+Sentence Numbers: NN
+------------------
+Word: march
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: pearson
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: disclaimer
+Frequency: 1
+Word Occurances : [124]
+Sentence Numbers: NN
+------------------
+Word: campaign
+Frequency: 2
+Word Occurances : [26, 27]
+Sentence Numbers: NN
+------------------
+Word: dancing
+Frequency: 1
+Word Occurances : [53]
+Sentence Numbers: NN
+------------------
+Word: randall
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: honrberger
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: field
+Frequency: 1
+Word Occurances : [28]
+Sentence Numbers: NN
+------------------
+Word: science
+Frequency: 1
+Word Occurances : [46]
+Sentence Numbers: NN
+------------------
+Word: rec
+Frequency: 9
+Word Occurances : [1, 1, 2, 3, 5, 5, 5, 5, 5]
+Sentence Numbers: NN
+------------------
+Word: downtown
+Frequency: 1
+Word Occurances : [49]
+Sentence Numbers: NN
+------------------
+Word: platform
+Frequency: 5
+Word Occurances : [29, 31, 33, 34, 116]
+Sentence Numbers: NN
+------------------
+Word: morning
+Frequency: 4
+Word Occurances : [12, 43, 119, 123]
+Sentence Numbers: NN
+------------------
+Word: access
+Frequency: 2
+Word Occurances : [71, 88]
+Sentence Numbers: NN
+------------------
+Word: emory
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: business
+Frequency: 11
+Word Occurances : [18, 41, 41, 42, 43, 44, 45, 103, 115, 115, 119]
+Sentence Numbers: NN
+------------------
+Word: includes
+Frequency: 2
+Word Occurances : [16, 115]
+Sentence Numbers: VBZ
+------------------
+Word: roommate
+Frequency: 1
+Word Occurances : [98]
+Sentence Numbers: NN
+------------------
+Word: century
+Frequency: 1
+Word Occurances : [62]
+Sentence Numbers: NN
+------------------
+Word: include
+Frequency: 1
+Word Occurances : [90]
+Sentence Numbers: VB
+------------------
+Word: president
+Frequency: 2
+Word Occurances : [117, 117]
+Sentence Numbers: NN
+------------------
+Word: srv
+Frequency: 3
+Word Occurances : [0, 6, 6]
+Sentence Numbers: NN
+------------------
+Word: telephone
+Frequency: 1
+Word Occurances : [12]
+Sentence Numbers: NN
+------------------
+Word: year
+Frequency: 1
+Word Occurances : [26]
+Sentence Numbers: NN
+------------------
+Word: campus
+Frequency: 1
+Word Occurances : [84]
+Sentence Numbers: NN
+------------------
+Word: dirk
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: occupancy
+Frequency: 1
+Word Occurances : [22]
+Sentence Numbers: NN
+------------------
+Word: look
+Frequency: 1
+Word Occurances : [77]
+Sentence Numbers: NN
+------------------
+Word: deadline
+Frequency: 1
+Word Occurances : [100]
+Sentence Numbers: NN
+------------------
+Word: slagle
+Frequency: 1
+Word Occurances : [49]
+Sentence Numbers: NN
+------------------
+Word: admission
+Frequency: 2
+Word Occurances : [55, 94]
+Sentence Numbers: NN
+------------------
+Word: st
+Frequency: 1
+Word Occurances : [62, 112]
+Sentence Numbers: VB
+------------------
+Word: message
+Frequency: 1
+Word Occurances : [7]
+Sentence Numbers: NN
+------------------
+Word: city
+Frequency: 4
+Word Occurances : [12, 16, 17, 121]
+Sentence Numbers: NN
+------------------
+Word: note
+Frequency: 1
+Word Occurances : [89]
+Sentence Numbers: NN
+------------------
+Word: match
+Frequency: 1
+Word Occurances : [98]
+Sentence Numbers: NN
+------------------
+Word: guzzetta
+Frequency: 1
+Word Occurances : [26]
+Sentence Numbers: NN
+------------------
+Word: sterling
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: list
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: crime
+Frequency: 1
+Word Occurances : [67]
+Sentence Numbers: NN
+------------------
+Word: ruwart
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: chess
+Frequency: 1
+Word Occurances : [102]
+Sentence Numbers: NN
+------------------
+Word: john
+Frequency: 1
+Word Occurances : [111]
+Sentence Numbers: NN
+------------------
+Word: rate
+Frequency: 1
+Word Occurances : [22]
+Sentence Numbers: NN
+------------------
+Word: drum
+Frequency: 1
+Word Occurances : [49]
+Sentence Numbers: NN
+------------------
+Word: see
+Frequency: 1
+Word Occurances : [41]
+Sentence Numbers: VB
+------------------
+Word: june
+Frequency: 1
+Word Occurances : [100]
+Sentence Numbers: NN
+------------------
+Word: amateur
+Frequency: 2
+Word Occurances : [1, 5]
+Sentence Numbers: NN
+------------------
+Word: keynote
+Frequency: 2
+Word Occurances : [40, 88]
+Sentence Numbers: NN
+------------------
+Word: opening
+Frequency: 1
+Word Occurances : [40, 47]
+Sentence Numbers: NN
+------------------
+Word: call
+Frequency: 1
+Word Occurances : [116]
+Sentence Numbers: NN
+------------------

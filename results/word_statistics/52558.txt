@@ -1,0 +1,425 @@
+Word: com
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: auvm
+Frequency: 3
+Word Occurances : [0, 0, 2, 3]
+Sentence Numbers: NN
+------------------
+Word: montreal
+Frequency: 2
+Word Occurances : [2, 6, 6, 12]
+Sentence Numbers: NN
+------------------
+Word: munc
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: NN
+------------------
+Word: hockey
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: montreal
+Frequency: 2
+Word Occurances : [2, 6, 6, 12]
+Sentence Numbers: VB
+------------------
+Word: pick
+Frequency: 2
+Word Occurances : [6, 12]
+Sentence Numbers: NN
+------------------
+Word: anything
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: NN
+------------------
+Word: gtefsd
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: center
+Frequency: 1
+Word Occurances : [5]
+Sentence Numbers: NN
+------------------
+Word: phillie
+Frequency: 3
+Word Occurances : [2, 6, 11]
+Sentence Numbers: NN
+------------------
+Word: quebec
+Frequency: 1
+Word Occurances : [10]
+Sentence Numbers: VB
+------------------
+Word: future
+Frequency: 1
+Word Occurances : [11]
+Sentence Numbers: NN
+------------------
+Word: dream
+Frequency: 2
+Word Occurances : [15, 16]
+Sentence Numbers: NN
+------------------
+Word: american
+Frequency: 2
+Word Occurances : [0, 0, 2, 5, 15, 17]
+Sentence Numbers: NN
+------------------
+Word: gets
+Frequency: 1
+Word Occurances : [7]
+Sentence Numbers: VBZ
+------------------
+Word: europa
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: vin
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: jvi
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: NN
+------------------
+Word: rush
+Frequency: 1
+Word Occurances : [15, 17]
+Sentence Numbers: NN
+------------------
+Word: paladin
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: ogicse
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: cantaloupe
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: jedi
+Frequency: 1
+Word Occurances : [16]
+Sentence Numbers: NN
+------------------
+Word: damphousse
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: university
+Frequency: 3
+Word Occurances : [5, 5, 17]
+Sentence Numbers: NN
+------------------
+Word: tsn
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: harvard
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: philadelphia
+Frequency: 2
+Word Occurances : [17, 17]
+Sentence Numbers: NN
+------------------
+Word: cerf
+Frequency: 1
+Word Occurances : [16]
+Sentence Numbers: NN
+------------------
+Word: eng
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: organization
+Frequency: 1
+Word Occurances : [5]
+Sentence Numbers: NN
+------------------
+Word: salary
+Frequency: 1
+Word Occurances : [8]
+Sentence Numbers: NN
+------------------
+Word: beatles
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: VBZ
+------------------
+Word: choose
+Frequency: 1
+Word Occurances : [7]
+Sentence Numbers: VB
+------------------
+Word: mweintr
+Frequency: 1
+Word Occurances : [0, 0, 2, 3, 15]
+Sentence Numbers: NN
+------------------
+Word: drag
+Frequency: 1
+Word Occurances : [16]
+Sentence Numbers: VB
+------------------
+Word: vancouver
+Frequency: 1
+Word Occurances : [17]
+Sentence Numbers: NN
+------------------
+Word: weintraub
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: NN
+------------------
+Word: theater
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: NN
+------------------
+Word: sun
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: phillidelphia
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: article
+Frequency: 1
+Word Occurances : [3]
+Sentence Numbers: NN
+------------------
+Word: elp
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: VB
+------------------
+Word: existence
+Frequency: 1
+Word Occurances : [17]
+Sentence Numbers: NN
+------------------
+Word: cmu
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: VBD
+------------------
+Word: rumor
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: rec
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: franchise
+Frequency: 1
+Word Occurances : [11]
+Sentence Numbers: NN
+------------------
+Word: emory
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: draw
+Frequency: 1
+Word Occurances : [11]
+Sentence Numbers: NN
+------------------
+Word: ottawa
+Frequency: 7
+Word Occurances : [2, 6, 6, 6, 7, 8, 12]
+Sentence Numbers: NNP
+------------------
+Word: trade
+Frequency: 1
+Word Occurances : [2, 10, 14]
+Sentence Numbers: VB
+------------------
+Word: news
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: gmt
+Frequency: 1
+Word Occurances : [3]
+Sentence Numbers: NN
+------------------
+Word: afford
+Frequency: 1
+Word Occurances : [8]
+Sentence Numbers: VB
+------------------
+Word: sport
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: sportsdesk
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: srv
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: apr
+Frequency: 1
+Word Occurances : [3, 4]
+Sentence Numbers: NN
+------------------
+Word: deadline
+Frequency: 1
+Word Occurances : [14]
+Sentence Numbers: NN
+------------------
+Word: go
+Frequency: 2
+Word Occurances : [15, 17]
+Sentence Numbers: VB
+------------------
+Word: depend
+Frequency: 1
+Word Occurances : [7]
+Sentence Numbers: VB
+------------------
+Word: trade
+Frequency: 2
+Word Occurances : [2, 10, 14]
+Sentence Numbers: NN
+------------------
+Word: send
+Frequency: 2
+Word Occurances : [6, 6]
+Sentence Numbers: VB
+------------------
+Word: message
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: rush
+Frequency: 1
+Word Occurances : [15, 17]
+Sentence Numbers: VB
+------------------
+Word: seems
+Frequency: 1
+Word Occurances : [11]
+Sentence Numbers: VBZ
+------------------
+Word: path
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: king
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: NN
+------------------
+Word: represents
+Frequency: 1
+Word Occurances : [11]
+Sentence Numbers: VBZ
+------------------
+Word: slegge
+Frequency: 1
+Word Occurances : [5, 13]
+Sentence Numbers: NN
+------------------
+Word: net
+Frequency: 1
+Word Occurances : [16]
+Sentence Numbers: NN
+------------------
+Word: see
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: VB
+------------------
+Word: give
+Frequency: 3
+Word Occurances : [6, 10, 14]
+Sentence Numbers: VB
+------------------
+Word: kean
+Frequency: 1
+Word Occurances : [4, 5, 13]
+Sentence Numbers: NN
+------------------
+Word: genesis
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: NN
+------------------
+Word: didn
+Frequency: 2
+Word Occurances : [10, 14]
+Sentence Numbers: VBD
+------------------
+Word: round
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: crimson
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: NN
+------------------
+Word: mention
+Frequency: 1
+Word Occurances : [11]
+Sentence Numbers: VB
+------------------
+Word: cup
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: NN
+------------------
+Word: date
+Frequency: 1
+Word Occurances : [3]
+Sentence Numbers: NN
+------------------
+Word: edu
+Frequency: 6
+Word Occurances : [0, 0, 0, 0, 2, 15]
+Sentence Numbers: NN
+------------------
+Word: wave
+Frequency: 1
+Word Occurances : [16]
+Sentence Numbers: NN
+------------------

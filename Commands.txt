@@ -1,0 +1,1 @@
+dot -Tpng "D:\MS-FAST\Thesis\Code\DocClustering1 (copy)\testresults\graph\Cricket World Cup.txt.dot" -o "D:\MS-FAST\Thesis\Code\DocClustering1 (copy)\testresults\graph\Cricket World Cup.png" -v

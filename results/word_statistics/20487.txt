@@ -1,0 +1,305 @@
+Word: com
+Frequency: 3
+Word Occurances : [0, 0, 8]
+Sentence Numbers: NN
+------------------
+Word: son
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: NN
+------------------
+Word: gov
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: decision
+Frequency: 1
+Word Occurances : [18]
+Sentence Numbers: NN
+------------------
+Word: invite
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: VB
+------------------
+Word: put
+Frequency: 1
+Word Occurances : [18]
+Sentence Numbers: VB
+------------------
+Word: hedrick
+Frequency: 1
+Word Occurances : [3]
+Sentence Numbers: NN
+------------------
+Word: theology
+Frequency: 1
+Word Occurances : [10]
+Sentence Numbers: NN
+------------------
+Word: kingdom
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: NN
+------------------
+Word: europa
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: reston
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: re
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: cantaloupe
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: wupost
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: crabapple
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: man
+Frequency: 2
+Word Occurances : [15, 18]
+Sentence Numbers: NN
+------------------
+Word: approved
+Frequency: 1
+Word Occurances : [4]
+Sentence Numbers: VBD
+------------------
+Word: eng
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: brother
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: died
+Frequency: 1
+Word Occurances : [17]
+Sentence Numbers: VBD
+------------------
+Word: refused
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: VBD
+------------------
+Word: organization
+Frequency: 1
+Word Occurances : [4]
+Sentence Numbers: NN
+------------------
+Word: believe
+Frequency: 1
+Word Occurances : [11]
+Sentence Numbers: VB
+------------------
+Word: chose
+Frequency: 1
+Word Occurances : [14]
+Sentence Numbers: VBD
+------------------
+Word: columbia
+Frequency: 1
+Word Occurances : [4]
+Sentence Numbers: NN
+------------------
+Word: article
+Frequency: 2
+Word Occurances : [5, 7]
+Sentence Numbers: NN
+------------------
+Word: righteousness
+Frequency: 1
+Word Occurances : [16]
+Sentence Numbers: NN
+------------------
+Word: grok
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: feast
+Frequency: 2
+Word Occurances : [9, 12]
+Sentence Numbers: NN
+------------------
+Word: wear
+Frequency: 1
+Word Occurances : [15]
+Sentence Numbers: VB
+------------------
+Word: rexlex
+Frequency: 1
+Word Occurances : [6]
+Sentence Numbers: NN
+------------------
+Word: sc
+Frequency: 1
+Word Occurances : [4]
+Sentence Numbers: NN
+------------------
+Word: made
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: VBD
+------------------
+Word: aramis
+Frequency: 1
+Word Occurances : [4]
+Sentence Numbers: NN
+------------------
+Word: tells
+Frequency: 1
+Word Occurances : [12]
+Sentence Numbers: VBZ
+------------------
+Word: marriage
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: NN
+------------------
+Word: heaven
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: NN
+------------------
+Word: jesus
+Frequency: 2
+Word Occurances : [12, 17]
+Sentence Numbers: NN
+------------------
+Word: religion
+Frequency: 1
+Word Occurances : [1]
+Sentence Numbers: NN
+------------------
+Word: gmt
+Frequency: 1
+Word Occurances : [3]
+Sentence Numbers: NN
+------------------
+Word: christ
+Frequency: 1
+Word Occurances : [10]
+Sentence Numbers: NN
+------------------
+Word: attend
+Frequency: 1
+Word Occurances : [14]
+Sentence Numbers: VB
+------------------
+Word: srv
+Frequency: 2
+Word Occurances : [0, 0]
+Sentence Numbers: NN
+------------------
+Word: apr
+Frequency: 2
+Word Occurances : [2, 3, 5, 7]
+Sentence Numbers: NN
+------------------
+Word: hp
+Frequency: 1
+Word Occurances : [8]
+Sentence Numbers: NN
+------------------
+Word: go
+Frequency: 1
+Word Occurances : [9]
+Sentence Numbers: VB
+------------------
+Word: ncr
+Frequency: 1
+Word Occurances : [0, 4]
+Sentence Numbers: NN
+------------------
+Word: message
+Frequency: 1
+Word Occurances : [2]
+Sentence Numbers: NN
+------------------
+Word: writes
+Frequency: 1
+Word Occurances : [7]
+Sentence Numbers: VBZ
+------------------
+Word: path
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: king
+Frequency: 1
+Word Occurances : [13]
+Sentence Numbers: NN
+------------------
+Word: christian
+Frequency: 1
+Word Occurances : [0, 1, 4]
+Sentence Numbers: NN
+------------------
+Word: columbiasc
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: NN
+------------------
+Word: sender
+Frequency: 1
+Word Occurances : [3]
+Sentence Numbers: NN
+------------------
+Word: athos
+Frequency: 5
+Word Occurances : [0, 2, 3, 5, 7]
+Sentence Numbers: NN
+------------------
+Word: parable
+Frequency: 2
+Word Occurances : [12, 12]
+Sentence Numbers: NN
+------------------
+Word: matt
+Frequency: 1
+Word Occurances : [8]
+Sentence Numbers: NN
+------------------
+Word: shrum
+Frequency: 1
+Word Occurances : [8]
+Sentence Numbers: NN
+------------------
+Word: gtefsd
+Frequency: 1
+Word Occurances : [0]
+Sentence Numbers: VBD
+------------------
+Word: date
+Frequency: 1
+Word Occurances : [3]
+Sentence Numbers: NN
+------------------
+Word: wedding
+Frequency: 4
+Word Occurances : [9, 12, 14, 16]
+Sentence Numbers: NN
+------------------
